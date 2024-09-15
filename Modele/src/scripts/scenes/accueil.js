@@ -17,6 +17,7 @@ class Accueil extends Phaser.Scene {
     this.load.image("buttonRetour", "./assets/images/ui/boutonRetour.png")
     this.load.image("buttonRecommencer", "./assets/images/ui/boutonRecommencer.png")
     this.load.image("buttonMenuPrincipal", "./assets/images/ui/boutonMenuPrincipal.png")
+    
   }
 
   create() {
